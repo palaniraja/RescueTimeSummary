@@ -2,7 +2,7 @@
     //Clone the Google spreadsheet -  http://goo.gl/tz7zyH
     //The speadsheet includes the following script. Goto Tools -> Script Editor to view the script.
     
-    var sheetId = "<REPLACE THIS WITH YOUR SPREADSHEET ID>;
+    var sheetId = "<REPLACE THIS WITH YOUR SPREADSHEET ID>";
     var sheetName = "mail";
 
 
