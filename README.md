@@ -4,7 +4,7 @@ RescueTimeSummary
 Google script to parse RescueTime weekly summary email for custom analysis
 
 
-* Clone the [Spreadsheet](goo.gl/tz7zyH)
+* Clone the [Spreadsheet](http://goo.gl/tz7zyH)
 * Open Tools -> Script Editor 
 * Replace _sheetId_ with your cloned spreadsheet id
 * Run "collectSummaryEmails", after a while you should see data on your "mail" sheet
